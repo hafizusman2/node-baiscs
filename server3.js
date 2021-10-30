@@ -28,3 +28,4 @@ http
   })
   .listen(3001);
 console.log("Server started on localhost:3001; press Ctrl-C to terminate....");
+//added different reponses
